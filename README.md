@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Islan42
 - 👀 I’m interested in: game dev
-- 🌱 I’m currently learning: Python, C++
+- 🌱 I’m currently learning: Python, C++, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
     
