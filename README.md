@@ -2,7 +2,7 @@
 - 👀 I’m interested in: game dev
 - 🌱 I’m currently learning: Python, JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: 
+- 📫 How to reach me: islan12victhor@gmail.com
     
 
 <!---
