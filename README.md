@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Islan42
-- 👀 I’m interested in: game dev
-- 🌱 I’m currently learning: Python, JavaScript
-- 💞️ I’m looking to collaborate on ...
+Praticamente inofensivo
+
 - 📫 How to reach me: islan12victhor@gmail.com
     
 
