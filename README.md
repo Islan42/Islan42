@@ -1,6 +1,4 @@
 Praticamente inofensivo
-
-- 📫 How to reach me: islan12victhor@gmail.com
     
 
 <!---
