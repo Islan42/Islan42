@@ -1,4 +1,4 @@
-Olá, meu nome é Islan Victhor, tenho 24 anos e sou estudante de Ciência da Computação pela Faculdade Descomplica. Tenho interesse em WebDev e GameDev.
+Olá, meu nome é Islan Victhor, tenho 25 anos e estou cursando o 1º Período do Tecnólogo em Análise e Desenvolvimento de Sistemas pelo Senac EAD. Tenho interesse em desenvolvimento web (FrontEnd e BackEnd) e GameDev.
 
 Este é meu Linked-in: https://www.linkedin.com/in/islan-victhor-b-426b17133/
 
